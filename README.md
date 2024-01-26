@@ -18,22 +18,32 @@
     - [2.4.2 AD Planning Task](#242-AD-Planning-Task)
     - [2.4.3 Bird-Eye-View Solutions](#243-Bird-Eye-View-Solutions)
 - [3. Closed-Loop Data-Driven Autonomous Driving System](#3-Closed-Loop-Data-Driven-Autonomous-Driving-System)
-  - [3.1 Characteristics of Closed-Loop Data-Driven AD Systems]
-  - [3.2 Industrial Representatives]
-  - [3.3 Key Technologies Involved in AD Big Data Systems]
-  - [3.4 High-Fidelity AD Data Generation and Simulation]
-  - [3.5 Auto-Labeling Methods for Autonomous Driving Big Data]
-    - [3.5.1 Autonomous Driving Data Labeling Pipelines \& Characteristics]
-    - [3.5.2 Auto-labeling Methods from Basic Task to High-Level Standards]
-    - [3.5.3 Open Source Auto-Labeling Tools and Platforms]
-    - [3.5.4 Data Mining for Autonomous Driving]
-    - [3.5.5 Active Learning for AD Big Data System]
+  - [3.1 Characteristics of Closed-Loop Data-Driven AD Systems](#31-Characteristics-of-Closed-Loop-Data-Driven-AD-Systems)
+  - [3.2 Industrial Representatives](#32-Industrial-Representatives)
+  - [3.3 Key Technologies Involved in AD Big Data Systems](#33-Key-Technologies-Involved-in-AD-Big-Data-Systems)
+  - [3.4 High-Fidelity AD Data Generation and Simulation](#34-High-Fidelity-AD-Data-Generation-and-Simulation)
+  - [3.5 Auto-Labeling Methods for Autonomous Driving Big Data](#35-Auto-Labeling-Methods-for-Autonomous-Driving-Big-Data)
+    - [3.5.1 Autonomous Driving Data Labeling Pipelines \& Characteristics](#351-Autonomous-Driving-Data-Labeling-Pipelines-Characteristics)
+    - [3.5.2 Auto-labeling Methods from Basic Task to High-Level Standards](#352-Auto-labeling-Methods-from-Basic-Task-to-High-Level-Standards)
+    - [3.5.3 Open Source Auto-Labeling Tools and Platforms](#353-Open-Source-Auto-Labeling-Tools-and-Platforms)
+    - [3.5.4 Data Mining for Autonomous Driving](#354-Data-Mining-for-Autonomous-Driving)
+    - [3.5.5 Active Learning for AD Big Data System](#355-Active-Learning-for-AD-Big-Data-System)
 
-- [4. Discussion \& Future Research Directions]
-  - [4.1 New Autonomous Driving Datasets at 3rd Generation and Beyond]
-  - [4.2 Hardware Supports for Autonomous Driving Algorithms]
-  - [4.3 Personalized Autonomous Driving Recommendation based on User Behavior Data]
-  - [4.4 Data Security and Trustworthy Autonomous Driving]
+- [4. Discussion \& Future Research Directions](#4-Discussion-Future-Research-Directions)
+  - [4.1 New Autonomous Driving Datasets at 3rd Generation and Beyond](#41-New-Autonomous-Driving-Datasets-at-3rd-Generation-and-Beyond)
+  - [4.2 Hardware Supports for Autonomous Driving Algorithms](#42-Hardware-Supports-for-Autonomous-Driving-Algorithms)
+  - [4.3 Personalized Autonomous Driving Recommendation based on User Behavior Data](#43-Personalized-Autonomous-Driving-Recommendation-based-on-User-Behavior-Data)
+  - [4.4 Data Security and Trustworthy Autonomous Driving](#44-Data-Security-and-Trustworthy-Autonomous-Driving)
 
 ### Acknowledgements to Our Research Work
 Thanks for the appreciation of our research. If you use part of the content of our research, please cite our work as follows:
+```
+@misc{li2024datacentric,
+      title={Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies}, 
+      author={Lincan Li and Wei Shao and Wei Dong and Yijun Tian and Kaixiang Yang and Wenjie Zhang},
+      year={2024},
+      eprint={2401.12888},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+```
