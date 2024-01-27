@@ -75,6 +75,15 @@ https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/
 <img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/NuScenes_Dataset_Acquisition_Settings.png" width="1000">
 
 ### 2.3 Public Leaderboard of Related Autonomous Driving Tasks
+#### 2.3.1 
+| 3D Object Tracking | 3D Object Detection|Image Semantic Segmentation|LiDAR Semantic Segmentation|Panoptic Segmentation|Lane Detection|LiDAR Point-Cloud Retrieval|
+|-------|-------|-------|-------|-------|-------|-------|
+| [NuScenes 3D Multi-Object Tracking](https://paperswithcode.com/sota/3d-multi-object-tracking-on-nuscenes) | [KITTI 3D Object Detection](https://paperswithcode.com/sota/3d-object-detection-on-kitti-cars-moderate)|[Cityscapes Semantic Segmentation](https://paperswithcode.com/sota/semantic-segmentation-on-cityscapes)|[SemanticKITTI 3D Semantic Segmentation](https://paperswithcode.com/sota/3d-semantic-segmentation-on-semantickitti)|[Cityscapes Panoptic Segmentation](https://paperswithcode.com/sota/video-panoptic-segmentation-on-cityscapes-vps)|[CULane Lane Detection](https://paperswithcode.com/sota/lane-detection-on-culane)|[Oxford RobotCar Point Cloud Retrieval](https://paperswithcode.com/sota/point-cloud-retrieval-on-oxford-robotcar)|
+|[Argoverse 3D Object Tracking](https://paperswithcode.com/sota/3d-object-tracking-on-argoverse-cvpr-2020)| [BDD 100k Object Detection](https://paperswithcode.com/sota/traffic-object-detection-on-bdd100k-val)|[BDD100K val Multi-Object Segmentation](https://paperswithcode.com/sota/multi-object-tracking-and-segmentation-on-3)| [NuScenes LIDAR Semantic Segmentation](https://paperswithcode.com/sota/lidar-semantic-segmentation-on-nuscenes)|  /  |[TuSimple Lane Detection](https://paperswithcode.com/sota/lane-detection-on-tusimple)|  /  |
+|[MOT17 Multi-Object Tracking](https://paperswithcode.com/sota/multi-object-tracking-on-mot17)|[Waymo 3D Object Detection on pedestrian](https://paperswithcode.com/sota/3d-object-detection-on-waymo-pedestrian)|[KITTI-360 Semantic Segmentation](https://paperswithcode.com/sota/semantic-segmentation-on-kitti-360)| Data | Data  | [OpenLane Lane Detection](https://paperswithcode.com/sota/3d-lane-detection-on-openlane)| Data  |
+| /  |[Waymo 3D Object Detection on Vehicle](https://paperswithcode.com/sota/3d-object-detection-on-waymo-vehicle)|  /  |  /  |  /  |[CurveLanes Lane Detection](https://paperswithcode.com/sota/lane-detection-on-curvelanes)|  /  |
+| /  |  /  |   /  |  /  |  /  |  /  |  /  |
+| /  |  /  |  /   |  /  |  /  |  /  |  /  |
 
 
 ### Acknowledgements to Our Research Work
@@ -82,7 +91,7 @@ Thanks for the appreciation of our research. If you use part of the content of o
 ```
 @misc{li2024datacentric,
       title={Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies}, 
-      author={Lincan Li and Wei Shao and Wei Dong and Yijun Tian and Kaixiang Yang and Wenjie Zhang},
+      author={Lincan Li and Wei Shao and Wei Dong and Yijun Tian and Qiming Zhang and Kaixiang Yang and Wenjie Zhang},
       year={2024},
       eprint={2401.12888},
       archivePrefix={arXiv},
