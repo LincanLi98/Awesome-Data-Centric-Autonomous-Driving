@@ -4,8 +4,8 @@
 
 ## Category
 - [1. Motivation and Background of Data-Driven Autonomous Driving(background)](#1-Motivation-and-Background-of-Data-Driven-Autonomous-Driving)
-  - [1.1 Performance Upper Bound of Autonomous Driving Algorithms](#11-Performance-Upper-Bound-of-Autonomous-Driving-Algorithms)
-  - [1.2 Reasons of Data-Driven Autonomous Driving](#12-Reasons-of-Data-Driven-Autonomous-Driving)
+  - [1.1 Reasons of Data-Driven Autonomous Driving](#11-Reasons-of-Data-Driven-Autonomous-Driving)
+  - [1.2 Performance Upper Bound of Autonomous Driving Algorithms](#12-Performance-Upper-Bound-of-Autonomous-Driving-Algorithms)
 - [2. Milestone Development of Autonomous Driving Datasets](#2-Milestone-Development-of-Autonomous-Driving-Datasets)
   - [2.1 Milestone Generation of AD Datasets](#21-Milestone-Generation-of-AD-Datasets)
   - [2.2 Dataset Acquisition, Settings, and Key Features](#22-Dataset-Acquisition-Settings-and-Key-Features)
@@ -37,11 +37,12 @@
 
 
 ## 1. Motivation and Background of Data-Driven Autonomous Driving
-
+### 1.1 Reasons of Data-Driven Autonomous Driving
 Most of the collected AD big data comes from normal driving scenarios, of which we already have huge amount of similar samples in the database. But the ambition of Data-Centric Autonomous Driving lies in the **automatic observing of long-tail distribution challenging scenarios**, and the **self-evolution of AD intelligent algorithms/models**.
 
-![image](https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/1-1_Long_Tail_Distribution.png)
+<img src="[https://example.com/image.png](https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/1-1_Long_Tail_Distribution.png)" width="1000" height="412">
 
+### 1.2 Performance Upper Bound of Autonomous Driving Algorithms
 Coming to year 2024, we are approaching the performance upper-bound of Autonomous Driving models. The key to break through the model performance upper-bound lies in Data-Centric Autonomous Driving Technologies: how we collect/labeling/store/utilize the tremendous & dynamic upgrading AD big data, how we employ various data-driven technologies in AD algorithms, and how we build our Data-Centric AD Platforms.
 
 ![image](https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/1-2_Illustration-of-AD-Model-Performance-Upper-Bound.png)
