@@ -56,6 +56,10 @@ There are three key insights regarding the switch from Model-centric to Data-cen
 ### 2.1 Milestone Generation of AD Datasets
 The evolution of autonomous driving datasets mirrors the technological advancements and growing ambitions in the field. Early endeavors in the late 20th century, such as the MIT's AVT Research and UC Berkeley's PATH Program, laid the groundwork with basic sensor data, but were limited by the technology level of the era. There has been a significant leap forward over the last two decades, fueled by advancements in sensor technology, computational power, and sophisticated machine learning algorithms. In 2014, the Society of Automotive Engineers (SAE) announced a systematic six-level (L0-L5) autonomous driving system to the public, which has been widely recognized by autonomous driving R&D progress. Empowered by deep learning, computer vision-based methods have dominated intelligent perception. Deep reinforcement learning and its variants have provided crucial improvements in intelligent planning and decision-making. More recently, Large Language Models (LLMs) and Vision Language Models (VLMs) showcase their strong capability of scene understanding, driving behavior reasoning & prediction, and intelligent decision making, which open up new possibilities for future development of autonomous driving.
 
+The **Table** below illustrates the milestone development of Open-Source autonomous driving datasets following the chronological order.
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/Figure2-Milestone-Generation-of-OpenSource-AD-Datasets.pdf">
+
+
 
 ### Acknowledgements to Our Research Work
 Thanks for the appreciation of our research. If you use part of the content of our research, please cite our work as follows:
