@@ -39,7 +39,8 @@
 ## 1. Motivation and Background of Data-Driven Autonomous Driving
 
 Most of the collected AD big data comes from normal driving scenarios, of which we already have huge amount of similar samples in the database. But the ambition of Data-Centric Autonomous Driving lies in the **automatic observing of long-tail distribution challenging scenarios**, and the **self-evolution of AD intelligent algorithms/models**.
-![image](https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/1-1_Long_Tail_Distribution.pdf)
+
+![image](https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/1-1_Long_Tail_Distribution.png){width=1000px height=412px}
 
 ### Acknowledgements to Our Research Work
 Thanks for the appreciation of our research. If you use part of the content of our research, please cite our work as follows:
