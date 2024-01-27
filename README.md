@@ -70,21 +70,44 @@ Here is the related grand challenges mentioned with the famous datasets (the lin
 <img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/Table2-Summary-of-Influential-Pred-Plan-Dataset.png" width="1000">
 
 AV Sensor-Suite Equipment and Settings for Real world Data Acquisition, Take the benchmark **KITTI** & **NuScenes** as examples:
-https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/KITTI_Dataset_Acquisition_Settings.png
 <img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/KITTI_Dataset_Acquisition_Settings.png" width="1000">
+
 <img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/NuScenes_Dataset_Acquisition_Settings.png" width="1000">
 
 ### 2.3 Public Leaderboard of Related Autonomous Driving Tasks
-#### 2.3.1 
+#### 2.3.1 Perception Task Leaderboard
 | 3D Object Tracking | 3D Object Detection|Image Semantic Segmentation|LiDAR Semantic Segmentation|Panoptic Segmentation|Lane Detection|LiDAR Point-Cloud Retrieval|
 |-------|-------|-------|-------|-------|-------|-------|
 | [NuScenes 3D Multi-Object Tracking](https://paperswithcode.com/sota/3d-multi-object-tracking-on-nuscenes) | [KITTI 3D Object Detection](https://paperswithcode.com/sota/3d-object-detection-on-kitti-cars-moderate)|[Cityscapes Semantic Segmentation](https://paperswithcode.com/sota/semantic-segmentation-on-cityscapes)|[SemanticKITTI 3D Semantic Segmentation](https://paperswithcode.com/sota/3d-semantic-segmentation-on-semantickitti)|[Cityscapes Panoptic Segmentation](https://paperswithcode.com/sota/video-panoptic-segmentation-on-cityscapes-vps)|[CULane Lane Detection](https://paperswithcode.com/sota/lane-detection-on-culane)|[Oxford RobotCar Point Cloud Retrieval](https://paperswithcode.com/sota/point-cloud-retrieval-on-oxford-robotcar)|
-|[Argoverse 3D Object Tracking](https://paperswithcode.com/sota/3d-object-tracking-on-argoverse-cvpr-2020)| [BDD 100k Object Detection](https://paperswithcode.com/sota/traffic-object-detection-on-bdd100k-val)|[BDD100K val Multi-Object Segmentation](https://paperswithcode.com/sota/multi-object-tracking-and-segmentation-on-3)| [NuScenes LIDAR Semantic Segmentation](https://paperswithcode.com/sota/lidar-semantic-segmentation-on-nuscenes)|  /  |[TuSimple Lane Detection](https://paperswithcode.com/sota/lane-detection-on-tusimple)|  /  |
-|[MOT17 Multi-Object Tracking](https://paperswithcode.com/sota/multi-object-tracking-on-mot17)|[Waymo 3D Object Detection on pedestrian](https://paperswithcode.com/sota/3d-object-detection-on-waymo-pedestrian)|[KITTI-360 Semantic Segmentation](https://paperswithcode.com/sota/semantic-segmentation-on-kitti-360)| Data | Data  | [OpenLane Lane Detection](https://paperswithcode.com/sota/3d-lane-detection-on-openlane)| Data  |
-| /  |[Waymo 3D Object Detection on Vehicle](https://paperswithcode.com/sota/3d-object-detection-on-waymo-vehicle)|  /  |  /  |  /  |[CurveLanes Lane Detection](https://paperswithcode.com/sota/lane-detection-on-curvelanes)|  /  |
-| /  |  /  |   /  |  /  |  /  |  /  |  /  |
-| /  |  /  |  /   |  /  |  /  |  /  |  /  |
+|[Argoverse 3D Object Tracking](https://paperswithcode.com/sota/3d-object-tracking-on-argoverse-cvpr-2020)| [BDD 100k Object Detection](https://paperswithcode.com/sota/traffic-object-detection-on-bdd100k-val)|[BDD100K val Multi-Object Segmentation](https://paperswithcode.com/sota/multi-object-tracking-and-segmentation-on-3)| [NuScenes LIDAR Semantic Segmentation](https://paperswithcode.com/sota/lidar-semantic-segmentation-on-nuscenes)|  /  |[TuSimple Lane Detection](https://paperswithcode.com/sota/lane-detection-on-tusimple)|   /  |
+|[MOT17 Multi-Object Tracking](https://paperswithcode.com/sota/multi-object-tracking-on-mot17)|[Waymo 3D Object Detection on pedestrian](https://paperswithcode.com/sota/3d-object-detection-on-waymo-pedestrian)|[KITTI-360 Semantic Segmentation](https://paperswithcode.com/sota/semantic-segmentation-on-kitti-360)|   /  | Data  | [OpenLane Lane Detection](https://paperswithcode.com/sota/3d-lane-detection-on-openlane)| Data  |
+|  /  |[Waymo 3D Object Detection on Vehicle](https://paperswithcode.com/sota/3d-object-detection-on-waymo-vehicle)|  /  |  /  |  /  |[CurveLanes Lane Detection](https://paperswithcode.com/sota/lane-detection-on-curvelanes)|  /  |
+|  /  |  /  |   /  |  /  |  /  |  /  |  /  |
+|  /  |  /  |  /   |  /  |  /  |  /  |  /  |
 
+#### 2.3.2 Prediction Task Leaderboard
+`In autonomous driving research, motion forecasting and trajectory prediction usually refer to the same task`
+`However, there may be difference in whether we need to forecast the ego-vehicle's motion/trajectory or surrounding agents' motion/trajectory`
+|     Motion Forecasting   /       Trajectory Prediction       | 
+|--------------------------------------------------------------|
+| [Apolloscape Trajectory Prediction](https://paperswithcode.com/sota/trajectory-prediction-on-apolloscape-1)| 
+|[NuScenes Trajectory Prediction](https://paperswithcode.com/sota/trajectory-prediction-on-nuscenes)|
+|[Argoverse 1 Motion Forecasting](https://paperswithcode.com/sota/motion-forecasting-on-argoverse-cvpr-2020)|
+|[Waymo Open Motion Dataset for Motion Forecasting]([https://paperswithcode.com/sota/motion-forecasting-on-argoverse-cvpr-2020](https://paperswithcode.com/dataset/waymo-open-motion-dataset))|
+|[Lyft Level 5 Trajectory Prediction](https://paperswithcode.com/sota/trajectory-prediction-on-lyft-level-5)|
+|[Argoverse 2 Motion Forecasting](https://paperswithcode.com/dataset/argoverse-2-motion-forecasting)|
+
+#### 2.3.3 Planning Task Leaderboard
+| Planning Task | 
+|---------------|
+|[NuPlan Challenge LeaderBoard 2023](https://motional.com/news/2023-nuplan-challenge)| 
+|[CARLA on Autonomous Driving Planning](https://paperswithcode.com/sota/autonomous-driving-on-carla-leaderboard)|
+|[Motion Policy Networks](https://paperswithcode.com/dataset/motion-policy-networks)|
+
+
+### 2.4 Awesome Challenging AD Task Solutions
+
+This is an ongoing project. The rest of this project will be finished within one week!
 
 ### Acknowledgements to Our Research Work
 Thanks for the appreciation of our research. If you use part of the content of our research, please cite our work as follows:
