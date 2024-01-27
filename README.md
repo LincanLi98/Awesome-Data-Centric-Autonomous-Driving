@@ -45,7 +45,7 @@ Most of the collected AD big data comes from normal driving scenarios, of which 
 ### 1.2 Performance Upper Bound of Autonomous Driving Algorithms
 Coming to year 2024, we are approaching the performance upper-bound of Autonomous Driving models. The key to break through the model performance upper-bound lies in Data-Centric Autonomous Driving Technologies: how we collect/labeling/store/utilize the tremendous & dynamic upgrading AD big data, how we employ various data-driven technologies in AD algorithms, and how we build our Data-Centric AD Platforms.
 
-![image](https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/1-2_Illustration-of-AD-Model-Performance-Upper-Bound.png)
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/1-2_Illustration-of-AD-Model-Performance-Upper-Bound.png" width="700">
 
 There are three key insights regarding the switch from Model-centric to Data-centric autonomous driving:
 - First, existing rule-based methodologies fail to address the problem, even in planning and decision-making tasks which are previously considered as their strength.
