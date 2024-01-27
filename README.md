@@ -95,7 +95,7 @@ AV Sensor-Suite Equipment and Settings for Real world Data Acquisition, Take the
 | [Apolloscape Trajectory Prediction](https://paperswithcode.com/sota/trajectory-prediction-on-apolloscape-1)| 
 |[NuScenes Trajectory Prediction](https://paperswithcode.com/sota/trajectory-prediction-on-nuscenes)|
 |[Argoverse 1 Motion Forecasting](https://paperswithcode.com/sota/motion-forecasting-on-argoverse-cvpr-2020)|
-|[Waymo Open Motion Dataset for Motion Forecasting]([https://paperswithcode.com/sota/motion-forecasting-on-argoverse-cvpr-2020](https://paperswithcode.com/dataset/waymo-open-motion-dataset))|
+|[Waymo Open Motion Dataset for Motion Forecasting](https://paperswithcode.com/dataset/waymo-open-motion-dataset)|
 |[Lyft Level 5 Trajectory Prediction](https://paperswithcode.com/sota/trajectory-prediction-on-lyft-level-5)|
 |[Argoverse 2 Motion Forecasting](https://paperswithcode.com/dataset/argoverse-2-motion-forecasting)|
 
