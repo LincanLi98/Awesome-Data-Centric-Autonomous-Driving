@@ -69,7 +69,12 @@ Here is the related grand challenges mentioned with the famous datasets (the lin
 
 <img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/Table2-Summary-of-Influential-Pred-Plan-Dataset.png" width="1000">
 
-AV Sensor-Suite Equipment and Settings for Real world Data Acquisition, Take the benchmark **NuScenes** & **Argoverse 2** as examples:
+AV Sensor-Suite Equipment and Settings for Real world Data Acquisition, Take the benchmark **KITTI** & **NuScenes** as examples:
+https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/KITTI_Dataset_Acquisition_Settings.png
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/KITTI_Dataset_Acquisition_Settings.png" width="1000">
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/NuScenes_Dataset_Acquisition_Settings.png" width="1000">
+
+### 2.3 Public Leaderboard of Related Autonomous Driving Tasks
 
 
 ### Acknowledgements to Our Research Work
