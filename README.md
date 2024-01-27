@@ -87,7 +87,9 @@ AV Sensor-Suite Equipment and Settings for Real world Data Acquisition, Take the
 
 #### 2.3.2 Prediction Task Leaderboard
 `In autonomous driving research, motion forecasting and trajectory prediction usually refer to the same task`
+
 `However, there may be difference in whether we need to forecast the ego-vehicle's motion/trajectory or surrounding agents' motion/trajectory`
+
 |     Motion Forecasting   /       Trajectory Prediction       | 
 |--------------------------------------------------------------|
 | [Apolloscape Trajectory Prediction](https://paperswithcode.com/sota/trajectory-prediction-on-apolloscape-1)| 
@@ -98,6 +100,7 @@ AV Sensor-Suite Equipment and Settings for Real world Data Acquisition, Take the
 |[Argoverse 2 Motion Forecasting](https://paperswithcode.com/dataset/argoverse-2-motion-forecasting)|
 
 #### 2.3.3 Planning Task Leaderboard
+
 | Planning Task | 
 |---------------|
 |[NuPlan Challenge LeaderBoard 2023](https://motional.com/news/2023-nuplan-challenge)| 
