@@ -40,7 +40,16 @@
 
 Most of the collected AD big data comes from normal driving scenarios, of which we already have huge amount of similar samples in the database. But the ambition of Data-Centric Autonomous Driving lies in the **automatic observing of long-tail distribution challenging scenarios**, and the **self-evolution of AD intelligent algorithms/models**.
 
-![image](https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/1-1_Long_Tail_Distribution.png){width=1000px height=412px}
+![image](https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/1-1_Long_Tail_Distribution.png)
+
+Coming to year 2024, we are approaching the performance upper-bound of Autonomous Driving models. The key to break through the model performance upper-bound lies in Data-Centric Autonomous Driving Technologies: how we collect/labeling/store/utilize the tremendous & dynamic upgrading AD big data, how we employ various data-driven technologies in AD algorithms, and how we build our Data-Centric AD Platforms.
+
+![image](https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/1-2_Illustration-of-AD-Model-Performance-Upper-Bound.png)
+
+There are three key insights regarding the switch from Model-centric to Data-centric autonomous driving:
+- First, existing rule-based methodologies fail to address the problem, even in planning and decision-making tasks which are previously considered as their strength.
+- Second, closed-loop data-driven approach is indispensable for advanced AD algorithm development and deployment, with an emphasize on automatically alleviating long-tail distribution problem. 
+- Third, we should re-consider the way of collecting, storing, and utilizing the massive autonomous driving data. Data collection should across all types of essential sensors equipped on AVs, not only camera recorded driving videos. During the storage and utilization procedure, information privacy, anonymity, and security should be guaranteed.
 
 ### Acknowledgements to Our Research Work
 Thanks for the appreciation of our research. If you use part of the content of our research, please cite our work as follows:
