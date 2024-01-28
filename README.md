@@ -146,6 +146,37 @@ In autonomous driving research, `motion forecasting` and `trajectory prediction`
 
 7.[LLM-Assist: Enhancing Closed-Loop Planning with Language-Based Reasoning](https://arxiv.org/abs/2401.00125)
 
+8.[VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/abs/2401.05577)
+
+#### 2.4.3 Bird-Eye-View (BEV) Solutions
+1.[(TPAMI) Delving Into the Devils of Bird's-Eye-View Perception: A Review, Evaluation and Recipe](https://ieeexplore.ieee.org/abstract/document/10321736)
+
+2.[(CVPR 2023) BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_BEVFormer_v2_Adapting_Modern_Image_Backbones_to_Birds-Eye-View_Recognition_via_CVPR_2023_paper.html)
+
+3.[(ICRA 2023) BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation](https://ieeexplore.ieee.org/abstract/document/10160968)
+
+4.[(ICCV 2023) Fb-bev: Bev representation from forward-backward view transformations](https://openaccess.thecvf.com/content/ICCV2023/html/Li_FB-BEV_BEV_Representation_from_Forward-Backward_View_Transformations_ICCV_2023_paper.html)
+
+5.[(ICCV 2023) FocalFormer3D: Focusing on Hard Instance for 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_FocalFormer3D_Focusing_on_Hard_Instance_for_3D_Object_Detection_ICCV_2023_paper.html)
+
+6.[(ICCV 2023) Bird's-Eye-View Scene Graph for Vision-Language Navigation](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_Birds-Eye-View_Scene_Graph_for_Vision-Language_Navigation_ICCV_2023_paper.html)
+
+7.[(ECCV 2022) BEVFormer: Learning Bird’s-Eye-View Representation from Multi-camera Images via Spatiotemporal Transformers](https://link.springer.com/chapter/10.1007/978-3-031-20077-9_1)
+
+8.[BEVerse: Unified Perception and Prediction in Birds-Eye-View for Vision-Centric Autonomous Driving](https://arxiv.org/abs/2205.09743)
+
+9.[(CVPR 2022) Exploiting Temporal Relations on Radar Perception for Autonomous Driving](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Exploiting_Temporal_Relations_on_Radar_Perception_for_Autonomous_Driving_CVPR_2022_paper.html)
+
+10.[(T-IV) BEV-V2X: Cooperative Birds-Eye-View Fusion and Grid Occupancy Prediction via V2X-Based Data Sharing](https://ieeexplore.ieee.org/abstract/document/10179171)
+
+11.[(CVPR 2023) UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View](https://openaccess.thecvf.com/content/CVPR2023/html/Zhou_UniDistill_A_Universal_Cross-Modality_Knowledge_Distillation_Framework_for_3D_Object_CVPR_2023_paper.html)
+
+12.[(ICCV 2023) UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_UniTR_A_Unified_and_Efficient_Multi-Modal_Transformer_for_Birds-Eye-View_Representation_ICCV_2023_paper.html)
+
+## 3. Closed-Loop Data-Driven Autonomous Driving System
+### 3.1 Characteristics of Closed-Loop Data-Driven AD Systems
+
+
 This is an ongoing project. The rest of this project will be finished within one week!
 
 ### Acknowledgements to Our Research Work
