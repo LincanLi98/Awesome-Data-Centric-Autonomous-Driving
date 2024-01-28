@@ -26,8 +26,8 @@
     - [3.5.1 Autonomous Driving Data Labeling Pipelines \& Characteristics](#351-Autonomous-Driving-Data-Labeling-Pipelines-Characteristics)
     - [3.5.2 Auto-labeling Methods from Basic Task to High-Level Standards](#352-Auto-labeling-Methods-from-Basic-Task-to-High-Level-Standards)
     - [3.5.3 Open Source Auto-Labeling Tools and Platforms](#353-Open-Source-Auto-Labeling-Tools-and-Platforms)
-    - [3.5.4 Data Mining for Autonomous Driving](#354-Data-Mining-for-Autonomous-Driving)
-    - [3.5.5 Active Learning for AD Big Data System](#355-Active-Learning-for-AD-Big-Data-System)
+  - [3.6 Data Mining for Autonomous Driving](#354-Data-Mining-for-Autonomous-Driving)
+  - [3.7 Active Learning for AD Big Data System](#355-Active-Learning-for-AD-Big-Data-System)
 
 - [4. Discussion \& Future Research Directions](#4-Discussion-Future-Research-Directions)
   - [4.1 New Autonomous Driving Datasets at 3rd Generation and Beyond](#41-New-Autonomous-Driving-Datasets-at-3rd-Generation-and-Beyond)
@@ -174,15 +174,14 @@ In autonomous driving research, `motion forecasting` and `trajectory prediction`
 12.[(ICCV 2023) UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_UniTR_A_Unified_and_Efficient_Multi-Modal_Transformer_for_Birds-Eye-View_Representation_ICCV_2023_paper.html)
 
 ## 3. Closed-Loop Data-Driven Autonomous Driving System
-We’re now shifting from the previous era of software & algorithm defined autonomous driving towards the new inspiring era of big data-driven & intelligent model collaborative autonomous driving. Closed-loop data-driven systems aim to bridge the gap between AD algorithm training and their realworld application/deployment. Unlike traditional open-loop methods, where models are passively trained on datasets collected from human client driving or road testing, closed-loop systems interact dynamically with the real environment. This approach addresses the distribution shifting challenge–where behavior learned from static datasets may not translate to the dynamic nature of real-world driving scenarios. Closed-loop systems allow AVs to learn from interactions and adapt to
-new situations, improving through iterative cycles of action and feedback.
+We're now shifting from the previous era of software & algorithm defined autonomous driving towards the new inspiring era of big data-driven & intelligent model collaborative autonomous driving. Closed-loop data-driven systems aim to bridge the gap between AD algorithm training and their real-world application/deployment. Unlike traditional open-loop methods, where models are passively trained on datasets collected from human client driving or road testing, closed-loop systems interact dynamically with the real environment. This approach addresses the distribution shifting challenge--where behavior learned from static datasets may not translate to the dynamic nature of real-world driving scenarios. Closed-loop systems allow AVs to learn from interactions and adapt to new situations, improving through iterative cycles of action and feedback. 
 
 ### 3.1 Characteristics of Closed-Loop Data-Driven AD Systems
 - These pipelines usually follow a workflow circle that includes: (I) data acquisition, (II) data storage, (III) data selection & preprocessing, (IV) data labeling, (V) AD model training, (VI) simulation/test validation, and (VII) real-world deployment. 
 - For the design of closed-loops within the system, existing solutions either choose separately set "Data Close-Loop" & "Model Close-Loop", or separately set cycles for different stages: "Close Loop during R&D stage" and "Close Loop during deployment stage".
 - Aside from that, the industry also emphasizes the long-tail distribution problem of real-world AD datasets and the challenges when dealing with corner case. Tesla and NVIDIA are industry pioneers in this realm, and their data system architectures offer significant reference for the development of the field.
 
-<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-1_momenta_data_driven_planning.png" width="800">
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-1_momenta_data_driven_planning.png" width="750">
 The above figure is Momenta's full-stack data-driven AD pipeline, it clearly shows the transformation from classical rule-based planning to data-driven planning.
 
 ### 3.2 Industrial Representatives
@@ -190,12 +189,20 @@ The above figure is Momenta's full-stack data-driven AD pipeline, it clearly sho
 - [NVIDIA MagLev Platform](https://www.youtube.com/watch?v=HuIWTwE28QE)
 - [Tesla AutoPilot Data Platform](https://www.youtube.com/watch?v=6x-Xb_uT7ts)
 - [Momenta Data-Driven Flywheel Platform](https://www.momenta.ai/en/technology.html)
-- Horizon Robotics Closed-Loop AD Data Platform
+- Horizon Robotics Closed-Loop Data Platform "AiDi"
 - [SenseAuto Empower Engine](https://www.sensetime.com/cn/product-detail?categoryId=51133699)
 - [Baidu Closed-Loop Data System](https://www.autonomousvehicleinternational.com/news/robotaxis/baidu-apollo-day-expanded-robotaxi-operations-and-new-autonomous-driving-software-and-hardware.html)
 - [XPENG ADAS Closed-Loop System](https://ir.xiaopeng.com/zh-hans/news-releases/news-release-details/xpeng-presents-next-gen-technology-architecture-sepa20)
 - [Pony.ai AD Data Platform](https://pony.ai/business?lang=en)
 - [Amazon Autonomous Mobility Data System](https://aws.amazon.com/automotive/autonomous-mobility/)
+
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-2-1_Tesla_close_loop.png" width="600">
+
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-2-2_Waymo_close_loop.png" width="600">
+
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-2-3_Horizon_robotics_close_loop.png" width="600">
+
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-2-4_Baidu_Close_Loop_Data_System.jpg" width="600">
 
 ### 3.3 Key Technologies Involved in AD Big Data Systems
 
