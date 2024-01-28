@@ -189,7 +189,7 @@ The above figure is Momenta's full-stack data-driven AD pipeline, it clearly sho
 - [NVIDIA MagLev Platform](https://www.youtube.com/watch?v=HuIWTwE28QE)
 - [Tesla AutoPilot Data Platform](https://www.youtube.com/watch?v=6x-Xb_uT7ts)
 - [Momenta Data-Driven Flywheel Platform](https://www.momenta.ai/en/technology.html)
-- Horizon Robotics Closed-Loop Data Platform "AiDi"
+- [Horizon Robotics Closed-Loop Data Platform "AiDi"](https://en.horizon.cc/developers-tools-and-sw-stack/)
 - [SenseAuto Empower Engine](https://www.sensetime.com/cn/product-detail?categoryId=51133699)
 - [Baidu Closed-Loop Data System](https://www.autonomousvehicleinternational.com/news/robotaxis/baidu-apollo-day-expanded-robotaxi-operations-and-new-autonomous-driving-software-and-hardware.html)
 - [XPENG ADAS Closed-Loop System](https://ir.xiaopeng.com/zh-hans/news-releases/news-release-details/xpeng-presents-next-gen-technology-architecture-sepa20)
@@ -219,8 +219,9 @@ This is the schematic of the Key Technologies involved in Data-Driven Closed-Loo
 #### 3.5.3 Open Source Auto-Labeling Tools and Platforms
 
 
-This is an ongoing project. The rest of this project will be finished within one week!
+`This is an ongoing project. The rest of this project will be finished within one week!`
 
+---------------------------------------------
 ### Acknowledgements to Our Research Work
 Thanks for the appreciation of our research. If you use part of the content of our research, please cite our work as follows:
 ```
