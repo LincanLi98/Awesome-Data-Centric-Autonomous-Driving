@@ -1,6 +1,6 @@
 # Awesome Data-Centric Autonomous Driving [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-**This is the official repository of our survey paper**:[Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888)
+**This project gathering & summarize Data-Driven Autonomous Driving Solutions from both Academic SOTA models, and Industrial Frontier solutions. It's also the official repository of our survey paper**: [Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888)
 
 ## Category
 - [1. Motivation and Background of Data-Driven Autonomous Driving(background)](#1-Motivation-and-Background-of-Data-Driven-Autonomous-Driving)
@@ -105,8 +105,8 @@ In autonomous driving research, `motion forecasting` and `trajectory prediction`
 |[CARLA on Autonomous Driving Planning](https://paperswithcode.com/sota/autonomous-driving-on-carla-leaderboard)|
 |[Motion Policy Networks](https://paperswithcode.com/dataset/motion-policy-networks)|
 
-
 ### 2.4 Awesome Challenging AD Task Solutions
+
 #### 2.4.1 End2End AD Pipelines
 1.[(CVPR 2023) Planning-Oriented Autonomous Driving](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Planning-Oriented_Autonomous_Driving_CVPR_2023_paper.html)
 
