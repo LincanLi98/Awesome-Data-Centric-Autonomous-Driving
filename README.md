@@ -181,7 +181,7 @@ We're now shifting from the previous era of software & algorithm defined autonom
 - For the design of closed-loops within the system, existing solutions either choose separately set "Data Close-Loop" & "Model Close-Loop", or separately set cycles for different stages: "Close Loop during R&D stage" and "Close Loop during deployment stage".
 - Aside from that, the industry also emphasizes the long-tail distribution problem of real-world AD datasets and the challenges when dealing with corner case. Tesla and NVIDIA are industry pioneers in this realm, and their data system architectures offer significant reference for the development of the field.
 
-<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-1_momenta_data_driven_planning.png" width="750">
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-1_momenta_data_driven_planning.png" width="700">
 The above figure is Momenta's full-stack data-driven AD pipeline, it clearly shows the transformation from classical rule-based planning to data-driven planning.
 
 ### 3.2 Industrial Representatives
@@ -205,6 +205,18 @@ The above figure is Momenta's full-stack data-driven AD pipeline, it clearly sho
 <img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-2-4_Baidu_Close_Loop_Data_System.jpg" width="600">
 
 ### 3.3 Key Technologies Involved in AD Big Data Systems
+This is the schematic of the Key Technologies involved in Data-Driven Closed-Loop Autonomous Driving.
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-3_mindmap_key_technology_involved.png" width="550">
+
+### 3.4 High-Fidelity AD Data Generation and Simulation
+
+### 3.5 Auto-Labeling Methods for Autonomous Driving Big Data
+
+#### 3.5.1 Autonomous Driving Data Labeling Pipelines \& Characteristics
+
+#### 3.5.2 Auto-labeling Methods from Basic Task to High-Level Standards
+
+#### 3.5.3 Open Source Auto-Labeling Tools and Platforms
 
 
 This is an ongoing project. The rest of this project will be finished within one week!
