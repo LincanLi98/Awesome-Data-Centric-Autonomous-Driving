@@ -174,7 +174,19 @@ In autonomous driving research, `motion forecasting` and `trajectory prediction`
 12.[(ICCV 2023) UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_UniTR_A_Unified_and_Efficient_Multi-Modal_Transformer_for_Birds-Eye-View_Representation_ICCV_2023_paper.html)
 
 ## 3. Closed-Loop Data-Driven Autonomous Driving System
+We’re now shifting from the previous era of software & algorithm defined autonomous driving towards the new inspiring era of big data-driven & intelligent model collaborative autonomous driving. Closed-loop data-driven systems aim to bridge the gap between AD algorithm training and their realworld application/deployment. Unlike traditional open-loop methods, where models are passively trained on datasets collected from human client driving or road testing, closed-loop systems interact dynamically with the real environment. This approach addresses the distribution shifting challenge–where behavior learned from static datasets may not translate to the dynamic nature of real-world driving scenarios. Closed-loop systems allow AVs to learn from interactions and adapt to
+new situations, improving through iterative cycles of action and feedback.
+
 ### 3.1 Characteristics of Closed-Loop Data-Driven AD Systems
+- These pipelines usually follow a workflow circle that includes: (I) data acquisition, (II) data storage, (III) data selection & preprocessing, (IV) data labeling, (V) AD model training, (VI) simulation/test validation, and (VII) real-world deployment.
+- For the design of closed-loops within the system, existing solutions either choose separately set ”Data CloseLoop” & ”Model Close-Loop”, or separately set cycles for different stages: ”Close Loop during R&D stage” and ”Close Loop during deployment stage”.
+- Aside from that, the industry also emphasizes the longtail distribution problem of real-world AD datasets and
+the challenges when dealing with corner case.
+- The industry is moving from previous Perception closed-loop, to current Perception & Prediction closed-loop, and is now looking forward to building Perception & Prediction & Planning closed-loop.
+
+### 3.2 Industrial Representatives
+
+### 3.3 Key Technologies Involved in AD Big Data Systems
 
 
 This is an ongoing project. The rest of this project will be finished within one week!
