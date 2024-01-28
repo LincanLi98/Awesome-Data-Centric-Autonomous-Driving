@@ -178,11 +178,11 @@ We’re now shifting from the previous era of software & algorithm defined auton
 new situations, improving through iterative cycles of action and feedback.
 
 ### 3.1 Characteristics of Closed-Loop Data-Driven AD Systems
-- These pipelines usually follow a workflow circle that includes: (I) data acquisition, (II) data storage, (III) data selection & preprocessing, (IV) data labeling, (V) AD model training, (VI) simulation/test validation, and (VII) real-world deployment.
-- For the design of closed-loops within the system, existing solutions either choose separately set ”Data CloseLoop” & ”Model Close-Loop”, or separately set cycles for different stages: ”Close Loop during R&D stage” and ”Close Loop during deployment stage”.
-- Aside from that, the industry also emphasizes the longtail distribution problem of real-world AD datasets and
-the challenges when dealing with corner case.
-- The industry is moving from previous Perception closed-loop, to current Perception & Prediction closed-loop, and is now looking forward to building Perception & Prediction & Planning closed-loop.
+- These pipelines usually follow a workflow circle that includes: (I) data acquisition, (II) data storage, (III) data selection & preprocessing, (IV) data labeling, (V) AD model training, (VI) simulation/test validation, and (VII) real-world deployment. 
+- For the design of closed-loops within the system, existing solutions either choose separately set "Data Close-Loop" & "Model Close-Loop", or separately set cycles for different stages: "Close Loop during R&D stage" and "Close Loop during deployment stage".
+- Aside from that, the industry also emphasizes the long-tail distribution problem of real-world AD datasets and the challenges when dealing with corner case. Tesla and NVIDIA are industry pioneers in this realm, and their data system architectures offer significant reference for the development of the field.
+The following figure is Momenta's full-stack data-driven autonomous driving pipeline, it clearly shows the transformation from classical rule-based planning to data-driven planning.
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-1_momenta_data_driven_planning.png" width="1000">
 
 ### 3.2 Industrial Representatives
 
