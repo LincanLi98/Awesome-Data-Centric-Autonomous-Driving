@@ -182,7 +182,7 @@ new situations, improving through iterative cycles of action and feedback.
 - For the design of closed-loops within the system, existing solutions either choose separately set "Data Close-Loop" & "Model Close-Loop", or separately set cycles for different stages: "Close Loop during R&D stage" and "Close Loop during deployment stage".
 - Aside from that, the industry also emphasizes the long-tail distribution problem of real-world AD datasets and the challenges when dealing with corner case. Tesla and NVIDIA are industry pioneers in this realm, and their data system architectures offer significant reference for the development of the field.
 
-<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-1_momenta_data_driven_planning.png" width="900">
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-1_momenta_data_driven_planning.png" width="800">
 The above figure is Momenta's full-stack data-driven AD pipeline, it clearly shows the transformation from classical rule-based planning to data-driven planning.
 
 ### 3.2 Industrial Representatives
@@ -194,7 +194,8 @@ The above figure is Momenta's full-stack data-driven AD pipeline, it clearly sho
 - [SenseAuto Empower Engine](https://www.sensetime.com/cn/product-detail?categoryId=51133699)
 - [Baidu Closed-Loop Data System](https://www.autonomousvehicleinternational.com/news/robotaxis/baidu-apollo-day-expanded-robotaxi-operations-and-new-autonomous-driving-software-and-hardware.html)
 - [XPENG ADAS Closed-Loop System](https://ir.xiaopeng.com/zh-hans/news-releases/news-release-details/xpeng-presents-next-gen-technology-architecture-sepa20)
-- [Pony.ai Data Platform](https://pony.ai/business?lang=en)
+- [Pony.ai AD Data Platform](https://pony.ai/business?lang=en)
+- [Amazon Autonomous Mobility Data System](https://aws.amazon.com/automotive/autonomous-mobility/)
 
 ### 3.3 Key Technologies Involved in AD Big Data Systems
 
