@@ -228,21 +228,25 @@ I highly recommend you to read the source paper which propose the concept of "Wo
 The authors also build an interactive website at [here](https://worldmodels.github.io/)
 
 The fig below is originally created by `DALL·E`, which imagines the integration of World Model and Autonomous Driving.
-
+<div align="center">
 <img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-4-World-Model-in-Autonomous-Driving-Generated-by-DALLE.png" width="400">
+</div>
 
 At present, `World Models` have been employed in the following aspects of autonomous driving:
+
   (i) Traffic stream simulation & sensor data generation👍
+  
   (ii) High-fidelity driving scene data generation👍
+  
   (iii) Intelligent planning for AV👍
 
-| Traffic stream simulation & sensor data generation | 
+| (i)Traffic stream simulation & sensor data generation | 
 |----------------------------------------------------|
-|[TrafficBots: Towards world models for autonomous driving simulation and motion prediction](https://arxiv.org/abs/2303.04116)| 
+|[TrafficBots: Towards world models for autonomous driving simulation and motion prediction](https://arxiv.org/abs/2303.04116)| 
 |[(CMU & NVIDIA) Language-Guided Traffic Simulation via Scene-Level Diffusion](https://arxiv.org/abs/2306.06344)|
 |[(Tsinghua) SurrealDriver: Designing Generative Driver Agent Simulation Framework in Urban Contexts based on Large Language Model](https://arxiv.org/abs/2309.13193)|
 
-| High-fidelity driving scene data generation | 
+| (ii)High-fidelity driving scene data generation | 
 |----------------------------------------------------|
 |[(ICLR 2024) Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion](https://arxiv.org/abs/2311.01017)|
 |[(wayve.ai) GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080)| 
@@ -250,15 +254,21 @@ At present, `World Models` have been employed in the following aspects of autono
 |[(Peking University) UniWorld: Autonomous Driving Pre-training via World Models](https://arxiv.org/abs/2308.07234)|
 |[(MEGVII Technology) ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/abs/2311.13549)|
 
-| Intelligent planning for AV | 
+| (iii)Intelligent planning for AV | 
 |----------------------------------------------------|
 |[Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/abs/2311.17918)| 
 |[(CoRL 2023) DayDreamer: World Models for Physical Robot Learning](https://proceedings.mlr.press/v205/wu23c.html)|
 |[(ICML 23) Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling](https://arxiv.org/abs/2301.12050)|
 
 ### 3.5 Auto-Labeling Methods for Autonomous Driving Big Data
+```
+"LLMs can label data as well as humans, but 100x faster"--by [Refuel Team](https://www.refuel.ai/blog-posts/llm-labeling-technical-report)
+```
+
+Auto-labeling methods hold great promise in alleviating the intensive labor of manual annotation, improving the efficiency of AD data closed-loop cycle, and reducing the expenses. Classic auto-labeling tasks include scene classification & understanding. Recently, with the popularization of Bird's-Eye-View (BEV) perception methodology, the industrial standard for AD data labeling is also increasing, and the auto-labeling tasks are becoming more complicated. 
 
 #### 3.5.1 Autonomous Driving Data Labeling Pipelines \& Characteristics
+
 
 #### 3.5.2 Auto-labeling Methods from Basic Task to High-Level Standards
 
