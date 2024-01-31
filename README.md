@@ -290,7 +290,7 @@ Existing data labeling pipelines can be characterized as three types, (1) Tradit
 
 [S3-Net: A Fast Scene Understanding Network by Single-Shot Segmentation for Autonomous Driving](https://dl.acm.org/doi/abs/10.1145/3470660)
 
-[A novel scene classification model combining resnet based transfer learning and data augmentation with a filter](https://www.sciencedirect.com/science/article/abs/pii/S0925231219301833)
+[A novel scene classification model combining resnet based transfer learning and data augmentation with a filter](https://www.sciencedirect.com/science/article/abs/pii/S0925231219301833)
 
 #### 3D Dynamic Object Auto-Labeling
 [(Waymo 3D Auto-Labeling for LiDAR, CVPR 2021)Offboard 3D Object Detection From Point Cloud Sequences](https://openaccess.thecvf.com/content/CVPR2021/html/Qi_Offboard_3D_Object_Detection_From_Point_Cloud_Sequences_CVPR_2021_paper.html)
@@ -305,7 +305,7 @@ Existing data labeling pipelines can be characterized as three types, (1) Tradit
 
 `Vision-based methods`
 
-[(CVPR 2023) Offboard hdmap generation with multi-view consistency](https://openaccess.thecvf.com/content/ICCV2023/html/Xie_MV-Map_Offboard_HD-Map_Generation_with_Multi-view_Consistency_ICCV_2023_paper.html)
+[(CVPR 2023) Offboard hd-map generation with multi-view consistency](https://openaccess.thecvf.com/content/ICCV2023/html/Xie_MV-Map_Offboard_HD-Map_Generation_with_Multi-view_Consistency_ICCV_2023_paper.html)
 
 [Nemo: Neural map growing system for spatiotemporal fusion in bird’s-eye-view and bdd-map benchmark](https://arxiv.org/abs/2306.04540)
 
@@ -321,7 +321,7 @@ Existing data labeling pipelines can be characterized as three types, (1) Tradit
 
 [(NeurIPS 2023) Ad-pt: Autonomous driving pre-training with large-scale point cloud dataset](https://arxiv.org/abs/2306.00612)
 
-[(CVPR 2023) Also: Automotive lidar self-supervision by occupancy estimation](https://openaccess.thecvf.com/content/CVPR2023/html/Boulch_ALSO_Automotive_Lidar_Self-Supervision_by_Occupancy_Estimation_CVPR_2023_paper.html)
+[(CVPR 2023) Also: Automotive lidar self-supervision by occupancy estimation](https://openaccess.thecvf.com/content/CVPR2023/html/Boulch_ALSO_Automotive_Lidar_Self-Supervision_by_Occupancy_Estimation_CVPR_2023_paper.html)
 
 
 
