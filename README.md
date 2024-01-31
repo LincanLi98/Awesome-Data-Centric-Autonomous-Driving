@@ -290,7 +290,7 @@ Existing data labeling pipelines can be characterized as three types, (1) Tradit
 
 [S3-Net: A Fast Scene Understanding Network by Single-Shot Segmentation for Autonomous Driving](https://dl.acm.org/doi/abs/10.1145/3470660)
 
-[A novel scene classification model combining resnet based transfer learning and data augmentation with a filter](https://www.sciencedirect.com/science/article/abs/pii/S0925231219301833)
+[A novel scene classification model combining resnet based transfer learning and data augmentation with a filter](https://www.sciencedirect.com/science/article/abs/pii/S0925231219301833)
 
 #### 3D Dynamic Object Auto-Labeling
 [(Waymo 3D Auto-Labeling for LiDAR, CVPR 2021)Offboard 3D Object Detection From Point Cloud Sequences](https://openaccess.thecvf.com/content/CVPR2021/html/Qi_Offboard_3D_Object_Detection_From_Point_Cloud_Sequences_CVPR_2021_paper.html)
@@ -304,14 +304,17 @@ Existing data labeling pipelines can be characterized as three types, (1) Tradit
 #### 3D Static Scene Auto-Labeling
 
 `Vision-based methods`
+
 [(CVPR 2023) Offboard hdmap generation with multi-view consistency](https://openaccess.thecvf.com/content/ICCV2023/html/Xie_MV-Map_Offboard_HD-Map_Generation_with_Multi-view_Consistency_ICCV_2023_paper.html)
 
 [Nemo: Neural map growing system for spatiotemporal fusion in bird’s-eye-view and bdd-map benchmark](https://arxiv.org/abs/2306.04540)
 
 `LiDAR-based methods`
+
 [VMA: Divide-and-Conquer Vectorized Map Annotation System for Large-Scale Driving Scene](https://arxiv.org/abs/2304.09807)
 
 `Pretraining 3D scene reconstruction methods`
+
 [Occ-bev: Multi-camera unified pre-training via 3d scene reconstruction.](https://arxiv.org/abs/2305.18829)
 
 [(ICCV 2023) Scene as occupancy](https://openaccess.thecvf.com/content/ICCV2023/html/Tong_Scene_as_Occupancy_ICCV_2023_paper.html)
