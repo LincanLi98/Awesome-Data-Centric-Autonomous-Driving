@@ -40,12 +40,12 @@
 ### 1.1 Reasons of Data-Driven Autonomous Driving
 Most of the collected AD big data comes from normal driving scenarios, of which we already have huge amount of similar samples in the database. But the ambition of Data-Centric Autonomous Driving lies in the **automatic observing of long-tail distribution challenging scenarios**, and the **self-evolution of AD intelligent algorithms/models**.
 
-<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/1-1_Long_Tail_Distribution.png" width="800">
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/1-1_Long_Tail_Distribution.png" width="600">
 
 ### 1.2 Performance Upper Bound of Autonomous Driving Algorithms
 Coming to year 2024, we are approaching the performance upper-bound of Autonomous Driving models. The key to break through the model performance upper-bound lies in Data-Centric Autonomous Driving Technologies: how we collect/labeling/store/utilize the tremendous & dynamic upgrading AD big data, how we employ various data-driven technologies in AD algorithms, and how we build our Data-Centric AD Platforms.
 
-<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/1-2_Illustration-of-AD-Model-Performance-Upper-Bound.png" width="700">
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/1-2_Illustration-of-AD-Model-Performance-Upper-Bound.png" width="600">
 
 There are three key insights regarding the switch from Model-centric to Data-centric autonomous driving:
 - First, existing rule-based methodologies fail to address the problem, even in planning and decision-making tasks which are previously considered as their strength.
@@ -268,9 +268,20 @@ At present, `World Models` have been employed in the following aspects of autono
 Auto-labeling methods hold great promise in alleviating the intensive labor of manual annotation, improving the efficiency of AD data closed-loop cycle, and reducing the expenses. Classic auto-labeling tasks include scene classification & understanding. Recently, with the popularization of Bird's-Eye-View (BEV) perception methodology, the industrial standard for AD data labeling is also increasing, and the auto-labeling tasks are becoming more complicated. 
 
 #### 3.5.1 Autonomous Driving Data Labeling Pipelines \& Characteristics
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-5-Mainstream-AD-Labeling-Pipelines.png" width="1000">
 
+Existing data labeling pipelines can be characterized as three types, (1) Traditional handicraft labeling; (2) Semi-automatic labeling; (3) Fully auto-labeling approach. AD data labeling is usually considered as `Task/Model specific`. The figure above illustartes the detailed labeling procedures.
 
 #### 3.5.2 Auto-labeling Methods from Basic Task to High-Level Standards
+- Scene Classification & Understanding
+- 3D Dynamic Object Auto-Labeling
+- 3D Static Scene Auto-Labeling
+
+#### Scene Classification & Understanding
+
+#### 3D Dynamic Object Auto-Labeling
+
+#### 3D Static Scene Auto-Labeling
 
 #### 3.5.3 Open Source Auto-Labeling Tools and Platforms
 
