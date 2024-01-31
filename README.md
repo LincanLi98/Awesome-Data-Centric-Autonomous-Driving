@@ -1,4 +1,4 @@
-# Awesome Data-Centric Autonomous Driving [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Data-Centric Autonomous Driving [![Awesome](https://awesome.re/social-preview.png)](https://awesome.re)
 
 **This project gathering & summarize Data-Driven Autonomous Driving Solutions from both Academic SOTA models, and Industrial Frontier solutions. It's also the official repository of our survey paper**: [Data-Centric Evolution in Autonomous Driving: A Comprehensive Survey of Big Data System, Data Mining, and Closed-Loop Technologies](https://arxiv.org/abs/2401.12888)
 
