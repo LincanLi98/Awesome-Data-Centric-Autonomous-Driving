@@ -327,7 +327,7 @@ Existing data labeling pipelines can be characterized as three types, (1) Tradit
 
 #### 3.5.3 Open Source Auto-Labeling Tools and Platforms
 
-(1) **[X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling)**: Effortless data labeling with AI support from Segment Anything and other awesome models.
+🚀(1) **[X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling)**: Effortless data labeling with AI support from Segment Anything and other awesome models.
 <img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-5-3-X-AnyLabeling.png" width="350">
 
 - [x] Support importing both **image** and **video** source data
@@ -336,7 +336,9 @@ Existing data labeling pipelines can be characterized as three types, (1) Tradit
 - [x] Support comprehensive SOTA deep learning models, including SAM, YoLo, etc.
 
 
-(2) **[AutoLabelImg](https://github.com/wufan-tb/AutoLabelImg)**: Multi-Function AutoAnnotate Tools
+
+
+🚀(2) **[AutoLabelImg](https://github.com/wufan-tb/AutoLabelImg)**: Multi-Function AutoAnnotate Tools
 
 AutoLabelImg is based on labelImg, but add more useful annotation tools and functions, which enables:
 - [x] **Auto Annotate**：anto annotate images based on yolov5 detector
@@ -347,7 +349,9 @@ AutoLabelImg is based on labelImg, but add more useful annotation tools and func
 - [x] **Other Tools**：label selecting/rename/counting, fix annotation, video merge/extract, welcome to try
 
 
-(3) **[SAM-Tool](https://github.com/zhouayi/SAM-Tool)**: Customized and Efficient Auto-Annotation based on Segment Anything (SAM) model.
+
+
+🚀(3) **[SAM-Tool](https://github.com/zhouayi/SAM-Tool)**: Customized and Efficient Auto-Annotation based on Segment Anything (SAM) model.
 <img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-5-3-SAM-Autolabel.gif" width="500">
 
 ### 3.6 Autonomous Driving Sensor Suite Calibration Tools
