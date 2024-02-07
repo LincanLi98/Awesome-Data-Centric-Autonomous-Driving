@@ -346,8 +346,23 @@ AutoLabelImg is based on labelImg, but add more useful annotation tools and func
 - [x] **Search System**：search details info based on your input
 - [x] **Other Tools**：label selecting/rename/counting, fix annotation, video merge/extract, welcome to try
 
-**[SAM-Tool]**(https://github.com/zhouayi/SAM-Tool): Customized and ERfficient Auto-Annotation based on Segment Anything (SAM) model.
-<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-5-3-X-AnyLabeling.png" width="450">
+**[SAM-Tool]**(https://github.com/zhouayi/SAM-Tool): Customized and Efficient Auto-Annotation based on Segment Anything (SAM) model.
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-5-3-SAM-Autolabel.gif" width="500">
+
+### 3.6 Autonomous Driving Sensor Suite Calibration Tools
+
+`Sensor suite calibration` is the foundation of any autonomous system and its constituent sensors, and must be performed correctly before achieving sensor fusion. Accurate calibration is crucial for further processing steps, such as sensor fusion and obstacle detection, localization and mapping, and implementation of control algorithms. In addition, sensor fusion is one of the important tasks in autonomous driving applications, which integrates information obtained from multiple sensors to reduce uncertainty compared to using sensors alone.
+
+(1) **[OpenCalib](https://github.com/PJLab-ADG/SensorsCalibration)**: developed and maintained by Shanghai AI Lab.
+
+(2) **[ApolloCalib](https://github.com/ApolloAuto/apollo/tree/master/modules/calibration)**: AD Calibration toolbox launched by Baidu Apollo.
+
+(3) **[AutowareCalib](https://github.com/autowarefoundation/autoware_ai_utilities/tree/master/autoware_camera_lidar_calibrator)**: The calibration tools come with Autoware toolkit.
+
+(4) **[LioxCalib](https://github.com/Livox-SDK/livox_camera_lidar_calibration)**:
+This solution provides a method for manually calibrating external parameters between LiDAR and cameras, which has been validated on the Mid-40, Horizon, and Tele-15 series.
+
+### 3.7 AD Visualization Tools
 
 ---------------------------------------------
 ### Acknowledgements to Our Research Work
