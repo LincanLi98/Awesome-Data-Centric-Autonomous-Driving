@@ -329,17 +329,18 @@ Existing data labeling pipelines can be characterized as three types, (1) Tradit
 
 🚀(1) **[X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling)**: Effortless data labeling with AI support from Segment Anything and other awesome models.
 <img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-5-3-X-AnyLabeling.png" width="350">
-
+<br>
 - [x] Support importing both **image** and **video** source data
 - [x] **One-click export** functionality, supporting **multiple standard formats** including  including COCO-JSON, VOC-XML, YOLOv5 TXT, DOTA-TXT, and MOT-CSV
 - [x] Supports multiple hardware environments (enable GPU inference) and cross platform applications (Windows, Linux, MacOS)
 - [x] Support comprehensive SOTA deep learning models, including SAM, YoLo, etc.
 
-
+<br>
+<br>
 
 
 🚀(2) **[AutoLabelImg](https://github.com/wufan-tb/AutoLabelImg)**: Multi-Function AutoAnnotate Tools
-
+<br>
 AutoLabelImg is based on labelImg, but add more useful annotation tools and functions, which enables:
 - [x] **Auto Annotate**：anto annotate images based on yolov5 detector
 - [x] **Tracking Annotate**：using tracking method in opencv, annotate video data
@@ -348,9 +349,8 @@ AutoLabelImg is based on labelImg, but add more useful annotation tools and func
 - [x] **Search System**：search details info based on your input
 - [x] **Other Tools**：label selecting/rename/counting, fix annotation, video merge/extract, welcome to try
 
-
-
-
+<br>
+<br>
 🚀(3) **[SAM-Tool](https://github.com/zhouayi/SAM-Tool)**: Customized and Efficient Auto-Annotation based on Segment Anything (SAM) model.
 <img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-5-3-SAM-Autolabel.gif" width="500">
 
