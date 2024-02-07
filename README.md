@@ -328,7 +328,7 @@ Existing data labeling pipelines can be characterized as three types, (1) Tradit
 #### 3.5.3 Open Source Auto-Labeling Tools and Platforms
 
 **[X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling)**: Effortless data labeling with AI support from Segment Anything and other awesome models.
-<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-2-4_Baidu_Close_Loop_Data_System.jpg" width="350">
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-5-3-X-AnyLabeling.png" width="350">
 
 - [x] Support importing both **image** and **video** source data
 - [x] **One-click export** functionality, supporting **multiple standard formats** including  including COCO-JSON, VOC-XML, YOLOv5 TXT, DOTA-TXT, and MOT-CSV
@@ -346,8 +346,8 @@ AutoLabelImg is based on labelImg, but add more useful annotation tools and func
 - [x] **Search System**：search details info based on your input
 - [x] **Other Tools**：label selecting/rename/counting, fix annotation, video merge/extract, welcome to try
 
-Customized Auto-Labeling Functionalities
-
+**[SAM-Tool]**(https://github.com/zhouayi/SAM-Tool): Customized and ERfficient Auto-Annotation based on Segment Anything (SAM) model.
+<img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-5-3-X-AnyLabeling.png" width="450">
 
 ---------------------------------------------
 ### Acknowledgements to Our Research Work
