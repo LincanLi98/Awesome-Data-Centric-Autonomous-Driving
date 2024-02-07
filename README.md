@@ -348,9 +348,9 @@ AutoLabelImg is based on labelImg, but add more useful annotation tools and func
 - [x] **Data Agument**：data agument
 - [x] **Search System**：search details info based on your input
 - [x] **Other Tools**：label selecting/rename/counting, fix annotation, video merge/extract, welcome to try
+<br>
+<br>
 
-<br>
-<br>
 🚀(3) **[SAM-Tool](https://github.com/zhouayi/SAM-Tool)**: Customized and Efficient Auto-Annotation based on Segment Anything (SAM) model.
 <img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-5-3-SAM-Autolabel.gif" width="500">
 
