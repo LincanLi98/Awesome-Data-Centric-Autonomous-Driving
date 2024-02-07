@@ -313,7 +313,7 @@ Existing data labeling pipelines can be characterized as three types, (1) Tradit
 
 [VMA: Divide-and-Conquer Vectorized Map Annotation System for Large-Scale Driving Scene](https://arxiv.org/abs/2304.09807)
 
-`Pretraining 3D scene reconstruction methods`
+`Pretraining 3D scene reconstruction methods`
 
 [Occ-bev: Multi-camera unified pre-training via 3d scene reconstruction.](https://arxiv.org/abs/2305.18829)
 
@@ -327,7 +327,7 @@ Existing data labeling pipelines can be characterized as three types, (1) Tradit
 
 #### 3.5.3 Open Source Auto-Labeling Tools and Platforms
 
-[X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling): Effortless data labeling with AI support from Segment Anything and other awesome models.
+**[X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling)**: Effortless data labeling with AI support from Segment Anything and other awesome models.
 <img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-2-4_Baidu_Close_Loop_Data_System.jpg" width="350">
 
 - [x] Support importing both **image** and **video** source data
@@ -336,7 +336,7 @@ Existing data labeling pipelines can be characterized as three types, (1) Tradit
 - [x] Support comprehensive SOTA deep learning models, including SAM, YoLo, etc.
 
 
-[AutoLabelImg](https://github.com/wufan-tb/AutoLabelImg): Multi-Function AutoAnnotate Tools
+**[AutoLabelImg](https://github.com/wufan-tb/AutoLabelImg)**: Multi-Function AutoAnnotate Tools
 
 AutoLabelImg is based on labelImg, but add more useful annotation tools and functions, which enables:
 - [x] **Auto Annotate**：anto annotate images based on yolov5 detector
