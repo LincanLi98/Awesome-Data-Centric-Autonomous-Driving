@@ -26,8 +26,8 @@
     - [3.5.1 Autonomous Driving Data Labeling Pipelines \& Characteristics](#351-Autonomous-Driving-Data-Labeling-Pipelines-Characteristics)
     - [3.5.2 Auto-labeling Methods from Basic Task to High-Level Standards](#352-Auto-labeling-Methods-from-Basic-Task-to-High-Level-Standards)
     - [3.5.3 Open Source Auto-Labeling Tools and Platforms](#353-Open-Source-Auto-Labeling-Tools-and-Platforms)
-  - [3.6 Data Mining for Autonomous Driving](#354-Data-Mining-for-Autonomous-Driving)
-  - [3.7 Active Learning for AD Big Data System](#355-Active-Learning-for-AD-Big-Data-System)
+  - [3.6 Autonomous Driving Sensor Suite Calibration Tools](#36-Autonomous-Driving-Sensor-Suite-Calibration-Tools)
+  - [3.7 Autonomous Driving Visualization Tools](#37-Autonomous-Driving-Visualization-Tools)
 
 - [4. Discussion \& Future Research Directions](#4-Discussion-Future-Research-Directions)
   - [4.1 New Autonomous Driving Datasets at 3rd Generation and Beyond](#41-New-Autonomous-Driving-Datasets-at-3rd-Generation-and-Beyond)
@@ -327,7 +327,7 @@ Existing data labeling pipelines can be characterized as three types, (1) Tradit
 
 #### 3.5.3 Open Source Auto-Labeling Tools and Platforms
 
-**[X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling)**: Effortless data labeling with AI support from Segment Anything and other awesome models.
+(1) **[X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling)**: Effortless data labeling with AI support from Segment Anything and other awesome models.
 <img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-5-3-X-AnyLabeling.png" width="350">
 
 - [x] Support importing both **image** and **video** source data
@@ -336,7 +336,7 @@ Existing data labeling pipelines can be characterized as three types, (1) Tradit
 - [x] Support comprehensive SOTA deep learning models, including SAM, YoLo, etc.
 
 
-**[AutoLabelImg](https://github.com/wufan-tb/AutoLabelImg)**: Multi-Function AutoAnnotate Tools
+(2) **[AutoLabelImg](https://github.com/wufan-tb/AutoLabelImg)**: Multi-Function AutoAnnotate Tools
 
 AutoLabelImg is based on labelImg, but add more useful annotation tools and functions, which enables:
 - [x] **Auto Annotate**：anto annotate images based on yolov5 detector
@@ -346,7 +346,8 @@ AutoLabelImg is based on labelImg, but add more useful annotation tools and func
 - [x] **Search System**：search details info based on your input
 - [x] **Other Tools**：label selecting/rename/counting, fix annotation, video merge/extract, welcome to try
 
-**[SAM-Tool]**(https://github.com/zhouayi/SAM-Tool): Customized and Efficient Auto-Annotation based on Segment Anything (SAM) model.
+
+(3) **[SAM-Tool](https://github.com/zhouayi/SAM-Tool)**: Customized and Efficient Auto-Annotation based on Segment Anything (SAM) model.
 <img src="https://github.com/LincanLi98/Awesome-Data-Centric-Autonomous-Driving/blob/main/img_resource/3-5-3-SAM-Autolabel.gif" width="500">
 
 ### 3.6 Autonomous Driving Sensor Suite Calibration Tools
@@ -363,6 +364,10 @@ AutoLabelImg is based on labelImg, but add more useful annotation tools and func
 This solution provides a method for manually calibrating external parameters between LiDAR and cameras, which has been validated on the Mid-40, Horizon, and Tele-15 series.
 
 ### 3.7 AD Visualization Tools
+
+- [Carla-birdeye-view](https://github.com/deepsense-ai/carla-birdeye-view) *An autonomous driving bird's-eye view visualization component that can be inter-connected with Carla*
+- [Uber AVS](https://avs.auto/#/) - *AD visualization front-end component`xviz`and `streetscape.gl`*
+- [Cruise](https://webviz.io/worldview/#/) -*Cruise.ai open-sourced front-end visualization kit for autonomous driving*
 
 ---------------------------------------------
 ### Acknowledgements to Our Research Work
