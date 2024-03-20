@@ -13,6 +13,7 @@
     - [2.3.1 Perception Task Leaderboard](#24-Perception-Task-Leaderboard)
     - [2.3.2 Prediction Task Leaderboard](#25-Prediction-Task-Leaderboard)
     - [2.3.3 Planning Task Leaderboard](#26-Planning-Task-Leaderboard)
+    - [2.3.4 LLM/VLM Enhanced Autonomous Driving Benchmark Dataset](#27-LLM/VLM-Task-Leaderboard)
   - [2.4 Awesome Challenging AD Task Solutions](24-Awesome-Challenging-AD-Task-Solutions)
     - [2.4.1 End2End AD Pipelines](#241-End2End-AD-Pipelines)
     - [2.4.2 AD Planning Task](#242-AD-Planning-Task)
@@ -104,6 +105,14 @@ In autonomous driving research, `motion forecasting` and `trajectory prediction`
 |[NuPlan Challenge LeaderBoard 2023](https://motional.com/news/2023-nuplan-challenge)| 
 |[CARLA on Autonomous Driving Planning](https://paperswithcode.com/sota/autonomous-driving-on-carla-leaderboard)|
 |[Motion Policy Networks](https://paperswithcode.com/dataset/motion-policy-networks)|
+
+
+#### 2.3.4 LLM/VLM Enhanced Autonomous Driving Benchmark Dataset
+
+| LLM/VLM Enhanced AD Benchmarks| 
+|---------------|
+|[DriveLM](https://github.com/OpenDriveLab/DriveLM/tree/main)| 
+|[LaMPilot](https://arxiv.org/pdf/2312.04372.pdf)|
 
 ### 2.4 Awesome Challenging AD Task Solutions
 
