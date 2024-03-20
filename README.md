@@ -19,6 +19,7 @@
     - [2.4.2 AD Planning Task](#242-AD-Planning-Task)
     - [2.4.3 High-Fidelity Autonomous Driving Data Generation](#243-Autonomous-Driving-Data-Generation)
     - [2.4.4 Bird-Eye-View Solutions](#244-Bird-Eye-View-Solutions)
+    - [2.4.5 Autonomous Driving Control](#245-AD-Control)
 - [3. Closed-Loop Data-Driven Autonomous Driving System](#3-Closed-Loop-Data-Driven-Autonomous-Driving-System)
   - [3.1 Characteristics of Closed-Loop Data-Driven AD Systems](#31-Characteristics-of-Closed-Loop-Data-Driven-AD-Systems)
   - [3.2 Industrial Representatives](#32-Industrial-Representatives)
@@ -208,6 +209,10 @@ In autonomous driving research, `motion forecasting` and `trajectory prediction`
 14.[(CVPR 2023) UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View](https://openaccess.thecvf.com/content/CVPR2023/html/Zhou_UniDistill_A_Universal_Cross-Modality_Knowledge_Distillation_Framework_for_3D_Object_CVPR_2023_paper.html)
 
 15.[(ICCV 2023) UniTR: A Unified and Efficient Multi-Modal Transformer for Bird's-Eye-View Representation](https://openaccess.thecvf.com/content/ICCV2023/html/Wang_UniTR_A_Unified_and_Efficient_Multi-Modal_Transformer_for_Birds-Eye-View_Representation_ICCV_2023_paper.html)
+
+#### 2.4.5 Autonomous Driving Control
+
+1.[GPT-4 Enhanced Multimodal Grounding for Autonomous Driving: Leveraging Cross-Modal Attention with Large Language Models](https://github.com/Petrichor625/Talk2car_CAVG)
 
 ## 3. Closed-Loop Data-Driven Autonomous Driving System
 We're now shifting from the previous era of software & algorithm defined autonomous driving towards the new inspiring era of big data-driven & intelligent model collaborative autonomous driving. Closed-loop data-driven systems aim to bridge the gap between AD algorithm training and their real-world application/deployment. Unlike traditional open-loop methods, where models are passively trained on datasets collected from human client driving or road testing, closed-loop systems interact dynamically with the real environment. This approach addresses the distribution shifting challenge--where behavior learned from static datasets may not translate to the dynamic nature of real-world driving scenarios. Closed-loop systems allow AVs to learn from interactions and adapt to new situations, improving through iterative cycles of action and feedback. 
