@@ -17,7 +17,8 @@
   - [2.4 Awesome Challenging AD Task Solutions](24-Awesome-Challenging-AD-Task-Solutions)
     - [2.4.1 End2End AD Pipelines](#241-End2End-AD-Pipelines)
     - [2.4.2 AD Planning Task](#242-AD-Planning-Task)
-    - [2.4.3 Bird-Eye-View Solutions](#243-Bird-Eye-View-Solutions)
+    - [2.4.3 High-Fidelity Autonomous Driving Data Generation](#243-Autonomous-Driving-Data-Generation)
+    - [2.4.4 Bird-Eye-View Solutions](#244-Bird-Eye-View-Solutions)
 - [3. Closed-Loop Data-Driven Autonomous Driving System](#3-Closed-Loop-Data-Driven-Autonomous-Driving-System)
   - [3.1 Characteristics of Closed-Loop Data-Driven AD Systems](#31-Characteristics-of-Closed-Loop-Data-Driven-AD-Systems)
   - [3.2 Industrial Representatives](#32-Industrial-Representatives)
@@ -159,7 +160,16 @@ In autonomous driving research, `motion forecasting` and `trajectory prediction`
 
 9.[VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/abs/2401.05577)
 
-#### 2.4.3 Bird-Eye-View (BEV) Solutions
+
+#### 2.4.3 High-Fidelity Autonomous Driving Data Generation
+
+1.[(CVPR2024) Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://panacea-ad.github.io/)
+2.[(CVPR2024) Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration](https://yifanlu0227.github.io/ChatSim/)
+3.[BerfScene: Bev-conditioned Equivariant Radiance Fields for Infinite 3D Scene Generation](https://arxiv.org/abs/2312.02136)
+
+
+
+#### 2.4.4 Bird-Eye-View (BEV) Solutions
 1.[(TPAMI) Delving Into the Devils of Bird's-Eye-View Perception: A Review, Evaluation and Recipe](https://ieeexplore.ieee.org/abstract/document/10321736)
 
 2.[(CVPR 2023) BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_BEVFormer_v2_Adapting_Modern_Image_Backbones_to_Birds-Eye-View_Recognition_via_CVPR_2023_paper.html)
