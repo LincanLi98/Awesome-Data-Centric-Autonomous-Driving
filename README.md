@@ -14,7 +14,7 @@
     - [2.3.2 Prediction Task Leaderboard](#232-Prediction-Task-Leaderboard)
     - [2.3.3 Planning Task Leaderboard](#233-Planning-Task-Leaderboard)
     - [2.3.4 LLM/VLM Enhanced Autonomous Driving Benchmark Dataset](#234-LLM/VLM-Task-Leaderboard)
-  - [2.4 Awesome Challenging AD Task Solutions](24-Awesome-Challenging-AD-Task-Solutions)
+  - [2.4 Awesome Challenging AD Task Solutions](#24-Awesome-Challenging-AD-Task-Solutions)
     - [2.4.1 End2End AD Pipelines](#241-End2End-AD-Pipelines)
     - [2.4.2 AD Planning Task](#242-AD-Planning-Task)
     - [2.4.3 High-Fidelity Autonomous Driving Data Generation](#243-Autonomous-Driving-Data-Generation)
@@ -118,47 +118,54 @@ In autonomous driving research, `motion forecasting` and `trajectory prediction`
 ### 2.4 Awesome Challenging AD Task Solutions
 
 #### 2.4.1 End2End AD Pipelines
-1.[(CVPR 2023) Planning-Oriented Autonomous Driving](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Planning-Oriented_Autonomous_Driving_CVPR_2023_paper.html)
+1.[(CVPR2024)LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/abs/2312.07488)
 
-2.[(ICCV 2023) DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving](https://openaccess.thecvf.com/content/ICCV2023/html/Jia_DriveAdapter_Breaking_the_Coupling_Barrier_of_Perception_and_Planning_in_ICCV_2023_paper.html)
+2.[(CVPR 2023) Planning-Oriented Autonomous Driving](https://openaccess.thecvf.com/content/CVPR2023/html/Hu_Planning-Oriented_Autonomous_Driving_CVPR_2023_paper.html)
 
-3.[DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/abs/2310.01412)
+3.[(ICCV 2023) DriveAdapter: Breaking the Coupling Barrier of Perception and Planning in End-to-End Autonomous Driving](https://openaccess.thecvf.com/content/ICCV2023/html/Jia_DriveAdapter_Breaking_the_Coupling_Barrier_of_Perception_and_Planning_in_ICCV_2023_paper.html)
 
-4.[(Baidu) Rethinking the Open-Loop Evaluation of End-to-End Autonomous Driving in nuScenes](https://arxiv.org/abs/2305.10430)
+4.[DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/abs/2310.01412)
 
-5.[(CVPR 2023) ReasonNet: End-to-End Driving With Temporal and Global Reasoning](https://openaccess.thecvf.com/content/CVPR2023/html/Shao_ReasonNet_End-to-End_Driving_With_Temporal_and_Global_Reasoning_CVPR_2023_paper.html)
+5.[(Baidu) Rethinking the Open-Loop Evaluation of End-to-End Autonomous Driving in nuScenes](https://arxiv.org/abs/2305.10430)
 
-6.[(CVPR 2023) Coaching a Teachable Student](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Coaching_a_Teachable_Student_CVPR_2023_paper.html)
+6.[(CVPR 2023) ReasonNet: End-to-End Driving With Temporal and Global Reasoning](https://openaccess.thecvf.com/content/CVPR2023/html/Shao_ReasonNet_End-to-End_Driving_With_Temporal_and_Global_Reasoning_CVPR_2023_paper.html)
 
-7.[DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/abs/2312.14150)
+7.[(CVPR 2023) Coaching a Teachable Student](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Coaching_a_Teachable_Student_CVPR_2023_paper.html)
 
-8.[(CoRL) Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer](https://proceedings.mlr.press/v205/shao23a.html)
+8.[DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/abs/2312.14150)
 
-9.[(ECCV 2022) ST-P3: End-to-End Vision-Based Autonomous Driving via Spatial-Temporal Feature Learning](https://link.springer.com/chapter/10.1007/978-3-031-19839-7_31)
+9.[(CoRL) Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer](https://proceedings.mlr.press/v205/shao23a.html)
 
-10.[(ICLR 2023) Policy Pre-training for Autonomous Driving via Self-supervised Geometric Modeling](https://arxiv.org/abs/2301.01006)
+10.[(ECCV 2022) ST-P3: End-to-End Vision-Based Autonomous Driving via Spatial-Temporal Feature Learning](https://link.springer.com/chapter/10.1007/978-3-031-19839-7_31)
 
-11.[(NeurIPS 2022) Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline](https://proceedings.neurips.cc/paper_files/paper/2022/hash/286a371d8a0a559281f682f8fbf89834-Abstract-Conference.html)
+11.[(ICLR 2023) Policy Pre-training for Autonomous Driving via Self-supervised Geometric Modeling](https://arxiv.org/abs/2301.01006)
+
+12.[(NeurIPS 2022) Trajectory-guided Control Prediction for End-to-end Autonomous Driving: A Simple yet Strong Baseline](https://proceedings.neurips.cc/paper_files/paper/2022/hash/286a371d8a0a559281f682f8fbf89834-Abstract-Conference.html)
 
 
 #### 2.4.2 AD Planning Task
-1.[(ICLR 2024) Dilu: A knowledge-driven approach to autonomous driving with large language models](https://arxiv.org/abs/2309.16292)
 
-2.[(ICRA 2023) TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction](https://arxiv.org/abs/2303.04116)
+1.[(CVPR2024)PlanKD: Compressing End-to-End Motion Planner for Autonomous Driving](https://arxiv.org/pdf/2403.01238.pdf)
 
-3.[(1st Solution on 2023 nuPlan Challenge) Parting with Misconceptions about Learning-based Vehicle Motion Planning](https://arxiv.org/pdf/2306.07962.pdf)
+2.[(CVPR2024)Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?](https://arxiv.org/abs/2312.03031)
 
-4.[(Horizon Robotics--2nd Solution on 2023 nuPlan Challenge) Imitation with Spatial-Temporal Heatmap:2nd Place Solution for NuPlan Challenge](https://arxiv.org/abs/2306.15700)
+3.[(ICLR 2024) Dilu: A knowledge-driven approach to autonomous driving with large language models](https://arxiv.org/abs/2309.16292)
 
-5.[(3rd Solution on 2023 nuPlan Challenge) An Imitation Learning Method with Data Augmentation and Post Processing for Planning in Autonomous Driving](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_pegasus_weitao.pdf)
+4.[(ICRA 2023) TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction](https://arxiv.org/abs/2303.04116)
 
-6.[FusionPlanner: A Multi-task Motion Planner for Mining Trucks via Multi-sensor Fusion](https://arxiv.org/abs/2308.06931)
+5.[(1st Solution on 2023 nuPlan Challenge) Parting with Misconceptions about Learning-based Vehicle Motion Planning](https://arxiv.org/pdf/2306.07962.pdf)
 
-7.[(Shanghai AI Lab) Gameformer planner: A learning-enabled interactive prediction and planning framework for autonomous vehicles](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_AID.pdf)
+6.[(Horizon Robotics--2nd Solution on 2023 nuPlan Challenge) Imitation with Spatial-Temporal Heatmap:2nd Place Solution for NuPlan Challenge](https://arxiv.org/abs/2306.15700)
 
-8.[LLM-Assist: Enhancing Closed-Loop Planning with Language-Based Reasoning](https://arxiv.org/abs/2401.00125)
+7.[(3rd Solution on 2023 nuPlan Challenge) An Imitation Learning Method with Data Augmentation and Post Processing for Planning in Autonomous Driving](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_pegasus_weitao.pdf)
 
-9.[VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/abs/2401.05577)
+8.[FusionPlanner: A Multi-task Motion Planner for Mining Trucks via Multi-sensor Fusion](https://arxiv.org/abs/2308.06931)
+
+9.[(Shanghai AI Lab) Gameformer planner: A learning-enabled interactive prediction and planning framework for autonomous vehicles](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_AID.pdf)
+
+10.[LLM-Assist: Enhancing Closed-Loop Planning with Language-Based Reasoning](https://arxiv.org/abs/2401.00125)
+
+11.[VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/abs/2401.05577)
 
 
 #### 2.4.3 High-Fidelity Autonomous Driving Data Generation
