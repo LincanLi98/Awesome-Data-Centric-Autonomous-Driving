@@ -164,7 +164,9 @@ In autonomous driving research, `motion forecasting` and `trajectory prediction`
 #### 2.4.3 High-Fidelity Autonomous Driving Data Generation
 
 1.[(CVPR2024) Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://panacea-ad.github.io/)
+
 2.[(CVPR2024) Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration](https://yifanlu0227.github.io/ChatSim/)
+
 3.[BerfScene: Bev-conditioned Equivariant Radiance Fields for Infinite 3D Scene Generation](https://arxiv.org/abs/2312.02136)
 
 
